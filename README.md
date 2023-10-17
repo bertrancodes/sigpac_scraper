@@ -1,5 +1,5 @@
 ## What is this?
-This programm was born out of the necessity to download a large number of SIGPAC (see [this](https://www.mapa.gob.es/es/agricultura/temas/sistema-de-informacion-geografica-de-parcelas-agricolas-sigpac-/default.aspx)) polygons, with minimal human intervention. It aims to solve that problem but it has a lot of rough edges and should be treated as an alpha version, at best. I have only tested it on Linux, but it should work on Windows too.
+This program was born out of the necessity to download a large number of SIGPAC (see [this](https://www.mapa.gob.es/es/agricultura/temas/sistema-de-informacion-geografica-de-parcelas-agricolas-sigpac-/default.aspx)) polygons with minimal human intervention. It aims to solve that problem, but it has a lot of rough edges and should be treated as an alpha version at best. I have only tested it on Linux, but it should work on Windows too.
 
 ## Usage
 First of all, you need to clone the repository:
